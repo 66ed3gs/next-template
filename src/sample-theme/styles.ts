@@ -1,4 +1,4 @@
-import { Styles, GlobalStyleProps, mode } from '../a/@chakra-ui/theme-tools';
+import { Styles, GlobalStyleProps, mode } from '@chakra-ui/theme-tools';
 
 const styles: Styles = {
   global: (props: GlobalStyleProps) => ({
